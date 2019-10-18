@@ -116,7 +116,7 @@ h2:hover::before{
     background-image: url(../images/feature-bg.png);
     background-repeat: no-repeat;
     background-position: bottom right;
-    background-size:75%;
+    background-size: 75%;
 
 }
 .feature-section .row .col-xl{
